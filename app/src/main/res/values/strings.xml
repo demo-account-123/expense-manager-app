@@ -1,3 +1,80 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Expense Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="netBalance">Budget</string>
+    <string name="YearlyBudget">yearlyBudget</string>
+    <string name="CASH">CashAmount</string>
+    <string name="BANK">BankAmount</string>
+    <string name="CREDIT">CreditAmount</string>
+    <string name="FinalMonthBudget">FinalMonthlyBudget</string>
+    <string name="Name">Name</string>
+    <string name="Income">Income</string>
+    <string name="FLAG">Flag</string>
+    <string name="textview">TextView</string>
+
+    <string name="transaction_name">Transaction Name*</string>
+    <string name="amount">Amount*</string>
+    <string name="select_date">Select Date*</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="recurring_transaction">Recurring Transaction</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_transaction_type">Select Transaction Type*</string>
+    <string name="comments">Comments</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="upcoming_transactions">UPCOMING TRANSACTIONS</string>
+    <string name="yearly_net_balance">Yearly Net Balance</string>
+    <string name="_0_0">0.0</string>
+    <string name="cash">Cash :</string>
+    <string name="credit">Credit :</string>
+    <string name="debit">Debit :</string>
+    <string name="na">NA</string>
+
+    <string name="set_balance_info">set balance info</string>
+
+    <string name="net_balance">NET BALANCE</string>
+
+    <string name="amount_saved">AMOUNT SAVED</string>
+    <string name="amount_spent">AMOUNT SPENT</string>
+    <string name="_25000_00">25000.00</string>
+    <string name="_15000_00">15000.00</string>
+    <string name="transactions_this_month">TRANSACTIONS THIS MONTH</string>
+
+
+    <string name="monthly_budget">Monthly Budget*</string>
+
+    <string name="before_we_get_started">Before we get started</string>
+    <string name="name">Name*</string>
+    <string name="continuehdth">continue</string>
+    <string name="save">Save</string>
+    <string name="monthly_budgetjk">Monthly Budget</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="namemkmk">Name</string>
+    <string name="set_up_your_budget">Set up your budget</string>
+    <string name="todo">TODO</string>
+
+    <string name="_200">+200</string>
+    <string name="cashfdf">Cash</string>
+    <string name="_27_july_2020">27 July, 2020</string>
+    <string name="item1">Item1</string>
+    <string name="_2020">2020</string>
+    <string name="june">JUNE</string>
+    <string name="view_all">VIEW ALL</string>
+
+    <string name="set_information">Set Information</string>
+    <string name="cash_amount">Cash Amount</string>
+    <string name="bank_amount">Bank Amount</string>
+    <string name="credit_amount">Credit Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="set">SET</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="you_can_edit_transaction">You can edit transaction</string>
+    <string name="delete_transacion">Delete Transacion</string>
+    <string name="you_can_delete_transaction">You can delete transaction</string>
+    <string name="calendar_view">Calendar view</string>
+    <string name="you_can_see_calendar_view">You can see calendar view</string>
+    <string name="edit">Edit</string>
+    <string name="you_can_edit_profile">You can edit profile</string>
 </resources>
